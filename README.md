@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashl-p
 - 👀 I’m interested in writing mystery novels
-- 🌱 I’m currently learning how to use GitHub for writing and building my website with HTML.
+- 🌱 I’m currently using GitHub for writing and building my website with HTML.
 - 💞️ I’m looking to collaborate on (not sure yet)
 - 📫 How to reach me: message me on here.
 
