@@ -2,7 +2,7 @@
 - 👀 I’m interested in writing mystery novels
 - 🌱 I’m currently using GitHub for writing and building my website with HTML.
 - 💞️ I’m looking to collaborate on (not sure yet)
-- 📫 How to reach me: message me on here.
+- 📫 How to reach me: message me here.
 
 <!---
 ashl-p/ashl-p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
