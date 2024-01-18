@@ -1,7 +1,6 @@
 - Hi, I’m @ashl-p
 - I’m interested in writing mystery novels
 - I’m currently using GitHub for writing
-- I’m looking to collaborate on (not sure yet)
 
 
 <!---
