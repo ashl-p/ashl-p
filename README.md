@@ -1,5 +1,5 @@
 - Hi, I’m @ashl-p
-- I’m interested in writing mystery novels
+- I’m interested in writing mystery and romance novels
 - I’m currently using GitHub for writing
 
 
