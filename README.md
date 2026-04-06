@@ -1,5 +1,5 @@
 - Hi, I’m @ashl-p
-- I’m interested in novels
+- I’m interested in writing novels
 - I’m currently using GitHub for writing
 
 
