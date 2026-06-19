@@ -1,6 +1,6 @@
 - Hi, I’m @ashl-p
-- I’m interested in writing novels
-- I’m currently using GitHub for writing
+- I’m interested in fiction manuscripts.
+- I’m currently using GitHub for composition.
 
 
 <!---
